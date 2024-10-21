@@ -1,4 +1,5 @@
 # using kmk firmware
+# have to turn in before 9 pct
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 
