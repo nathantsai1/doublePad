@@ -1,3 +1,4 @@
+# using kmk firmware
 import board
 from kmk.kmk_keyboard import KMKKeyboard
 
